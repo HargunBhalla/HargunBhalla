@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Hargun a high school senior passionate about artificial intelligence, neuroscience, and technology 🧠
+I'm Hargun, a high school senior passionate about artificial intelligence, neuroscience, and technology! 🧠
 
 ### My Skillset
 - 🔭 I’m currently working on ...
