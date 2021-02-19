@@ -8,4 +8,5 @@ Previous Experience:
 3. Currently, I am a SHAD Fellow from SHAD Lakehead 2019.
 
 Computational: Java, Python, C/C++
+
 Design and Web Development: HTML, Javascript (React), CSS, Bootstrap, AutoCAD
