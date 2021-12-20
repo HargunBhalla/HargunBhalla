@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Hargun, a student passionate about artificial intelligence, neuroscience, and technology! 🧠
+I'm Hargun, a gap year student passionate about artificial intelligence, neuroscience, and technology! 🧠
 
 ### Previous Experience:
 1. Google's Computer Science Summer Institute (CSSI) Scholar from the Summer of 2021.
