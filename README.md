@@ -10,4 +10,4 @@ I'm Hargun, a gap year student passionate about artificial intelligence, neurosc
 
 ### Technical Skills:
 - Languages: Javascript, Java, Python, HTML/CSS, Bootstrap
-- Frameworks and Tools: React, Angular, p5, Figma, Git
+- Frameworks and Tools: React, Angular, p5, Figma, Git, Android Studio
