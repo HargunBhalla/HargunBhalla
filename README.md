@@ -15,3 +15,6 @@ I'm Hargun, a gap year student passionate about artificial intelligence, neurosc
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HargunBhalla&theme=dark)
 
 ![Hargun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HargunBhalla&theme=dark)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
