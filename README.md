@@ -12,8 +12,4 @@ I'm Hargun, a gap year student passionate about artificial intelligence, neurosc
 - Languages: Javascript, Java, Python, HTML/CSS, Bootstrap
 - Frameworks and Tools: React, Angular, p5, Figma, Git, Android Studio
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HargunBhalla&theme=dark)
-
-![Hargun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HargunBhalla&theme=dark)
-
-[![Hargun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HargunBhalla)](https://github.com/anuraghazra/github-readme-stats)
+![Hargun Bhalla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HargunBhalla&theme=dark)
