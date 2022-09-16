@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Hargun, an incoming Systems Design Engineering Student at the University of Waterloo, passionate about artificial intelligence, neuroscience, and technology! 🧠
+I'm Hargun, a Systems Design Engineering Student at the University of Waterloo, passionate about artificial intelligence, neuroscience, and technology! 🧠
 
 ### Previous Experience:
 1. Software Developer at RBC in the Summer of 2022
