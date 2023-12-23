@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-I'm Hargun, a Systems Design Engineering Student at the University of Waterloo, passionate about artificial intelligence, neuroscience, and technology! 🧠
+I'm Hargun, a Systems Design Engineering Student at the University of Waterloo, passionate about artificial intelligence, software development, and neuroscience! 🧠
 
 ### Previous Experience:
-1. Software Developer at RBC in the Summer of 2022
+1. Software Developer at RBC in the Summers of 2022 and 2023.
 1. Google's Computer Science Summer Institute (CSSI) Scholar from the Summer of 2021.
-2. Innovation Developer at the Royal Bank of Canada (RBC) in the Summer of 2020 and Summer of 2021.
 3. Data Analyst Intern at the Canadian Women's Chamber of Commerce (CanWCC) in the Summer of 2019.
 4. SHAD Ambassador and Alumni from SHAD Lakehead 2019.
 
