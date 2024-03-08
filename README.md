@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Hargun, a Systems Design Engineering Student at the University of Waterloo, passionate about artificial intelligence, software development, and neuroscience! 🧠
+I'm Hargun, a Systems Design Engineering Student at the University of Waterloo, passionate about artificial intelligence, software development, and neuroscience! 🧠 I'm also currently a Database Specialist Intern at RouteThis and Research Assistant under the Ingalls Quantitative Cell Biology Lab at the University of Waterloo.
 
 ### Previous Experience:
 1. Software Developer at RBC in the Summers of 2022 and 2023.
